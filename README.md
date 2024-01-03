@@ -1,5 +1,9 @@
 # Code for : [Enhancing the Domain Robustness of Self-Supervised Pre-Training with Synthetic Images]
+[![Conference](https://img.shields.io/badge/ICASSP-2024-4b44ce)](https://2024.ieeeicassp.org/)
 
+<a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/-Python_3.7-blue?logo=python&logoColor=white"></a>
+<a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch_1.10-ee4c2c?logo=pytorch&logoColor=white"></a>
+<a href="https://pytorchlightning.ai/"><img alt="Lightning" src="https://img.shields.io/badge/-Lightning_2.1.2-792ee5?logo=pytorchlightning&logoColor=white"></a>
 ## Overview
 
 This repository contains the code for Enhancing the Domain Robustness of Self-Supervised Pre-Training with Synthetic Images. We present a novel method for improving the adaptability of self-supervised (SSL) pre-trained models across different domains.
